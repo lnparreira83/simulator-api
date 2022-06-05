@@ -9,12 +9,12 @@
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
-      "imagem":"TODO"
+      "imagem":"https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg"
     },
     "visitante": {
       "nome": "Argentina",
       "forca": 5,
-      "imagem":"TODO"
+      "imagem":"https://www.estudopratico.com.br/wp-content/uploads/2016/03/bandeira-argentina-1200x675.jpg"
     }
   }
 ]
